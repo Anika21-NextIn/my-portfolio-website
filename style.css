@@ -54,10 +54,7 @@
     position: relative;
 }
 #blogs p{
-    font-size: 25px;
-    padding: 20px;
-    background-color: rgb(172, 231, 212);
-    text-align: center;
+    font-size: 20px;
 }
 h4{
     animation: textanimation 1s ease-in-out;
